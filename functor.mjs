@@ -58,7 +58,7 @@ class Wrapper {
   }
 }
 
-const string = "call me bro";
+const string = "fuck my life";
 
 const mappableString = new Wrapper(string);
 
